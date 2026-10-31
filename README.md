@@ -20,6 +20,9 @@ A simple website built to practice Git and GitHub, including branching, Pull Req
 
 All pages share `style.css`.
 
+## Version
+Release v1.0: first stable version with Home, Products, and Contact pages.
+
 
 
 \## Workflow
